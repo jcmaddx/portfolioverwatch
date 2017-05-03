@@ -1,0 +1,52 @@
+{
+    "main": {
+        "play": {
+            "text": "Play",
+            "link": false
+        },
+        "tranining": {
+            "text": "Training",
+            "link": "/career/training"
+        },
+        "gallery": {
+            "text": "Hero Gallery",
+            "link": false
+        },
+        "loot": {
+            "text": "Loot Box",
+            "link": false
+        }
+    },
+    "sub" : {
+        "social": {
+            "text": "Social",
+            "link": "/career/social"
+        },
+        "career": {
+            "text": "Career Profile",
+            "link": "/career/profile"
+        },
+        "options": {
+            "text": "Options",
+            "link": false
+        },
+        "exit": {
+            "text": "Exit Game",
+            "link": "/"
+        }
+    },
+    "career" : {
+        "profile": {
+            "text": "Profile",
+            "link": "/career/profile"
+        },
+        "training": {
+            "text": "Training",
+            "link": "/career/training"
+        },
+        "social": {
+            "text": "Social",
+            "link": "/career/social"
+        }
+    }
+}
